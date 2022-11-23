@@ -1,0 +1,13 @@
+.container {
+	display: flex;
+	align-items: center;
+}
+
+.textField {
+	width: 70%;
+	max-width: 500px;
+}
+
+.icons {
+	display: inline;
+}
